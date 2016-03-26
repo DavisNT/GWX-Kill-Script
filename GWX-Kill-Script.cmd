@@ -1,7 +1,7 @@
 @echo off
 rem Display info and license
 color f0
-echo GWX Kill Script 1.0.0
+echo GWX Kill Script 1.0.1
 echo A tool for disabling "Upgrade to Windows 10" notifications (and tray icon).
 echo https://github.com/DavisNT/GWX-Kill-Script
 echo.

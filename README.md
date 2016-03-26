@@ -3,7 +3,7 @@ GWX Kill Script
 A tool for disabling "Upgrade to Windows 10" notifications (and tray icon) 
 on Windows 7, 8 and 8.1.
 
-Version 1.0.0
+Version 1.0.1
 
 Copyright (c) 2016 Davis Mosenkovs
 
@@ -12,6 +12,7 @@ Copyright (c) 2016 Davis Mosenkovs
 There already are several tools available for disabling GWX (the annoying 
 "Upgrade to Windows 10" notifications and tray icon). 
 However this is probably the first easy to use script for this purpose. 
+
 Use of this script should be simple enough for average users and this script 
 can be easily verified by IT professionals (to understand how it works and 
 ensure there is nothing malicious in it).
@@ -23,6 +24,9 @@ this GitHub repository (e.g. [Releases](https://github.com/DavisNT/GWX-Kill-Scri
 section). After downloading (and extracting) file `GWX-Kill-Script.cmd` it 
 must be run with Administrator rights (by right clicking on it and selecting 
 _Run as Administrator_).
+
+Most likely this script will have to be used again each time when Windows Update 
+updates GWX.
 
 ## Notices
 
